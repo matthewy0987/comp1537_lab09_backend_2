@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cor": "^0.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "init": "^0.1.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
